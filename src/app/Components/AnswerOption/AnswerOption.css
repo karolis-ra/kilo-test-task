@@ -1,0 +1,6 @@
+.AnswerBlock {
+  border: 2px solid black;
+  margin: 10px;
+  max-width: 600px;
+  cursor: pointer;
+}
